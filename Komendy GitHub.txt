@@ -1,0 +1,9 @@
+====== Github ======
+Created środa 30 października 2019
+
+git clone		#Pobiera repozytorium
+cd gitrepo		#Wchodzi w folder
+git status		#Sprawdza zmiany
+git pull		#Aktualizuje repozytorium
+git commit	#Zapisuje zmiany
+git pull		#

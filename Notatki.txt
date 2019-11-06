@@ -1,0 +1,11 @@
+====== Notatki ======
+Algorytm - Skoończona lista czynności prowadząca do osiągnięcia celu
+Algorytmy liniowe - Lista kroków, które wykonują się po kolei
+Operacje wyjścia:
+	print
+Operacje wejścia
+	input
+Typy danych
+	Liczby: INTEGER
+	Tekst: STRING
+
