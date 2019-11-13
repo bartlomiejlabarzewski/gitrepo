@@ -8,4 +8,5 @@ Operacje wejścia
 Typy danych
 	Liczby: INTEGER
 	Tekst: STRING
+for i in range(pierwsza liczba, ostatnia liczba(+1), odstepy między liczbami)
 
